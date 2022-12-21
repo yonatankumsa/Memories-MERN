@@ -1,8 +1,9 @@
 # Memories-MERN-Project
 A Full Stack MERN Application called "Memories" that allows users to post interesting events that happened in their lives. Implemented Using React, Node.js, Express &amp; MongoDB.
 
-# Live Demo 
-ikd-memories.netlify.app/
+# Live Demo
+<a href= "ikd-memories.netlify.app/"> click </a>
+
 
 # Features
 - Authentication (login/register with username-password) Using jsonwebtoken
