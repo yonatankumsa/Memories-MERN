@@ -25,6 +25,8 @@ A Full Stack MERN Application called "Memories" that allows users to post intere
 
 
 ## Screenshot
-<img width="588" alt="image" src="https://user-images.githubusercontent.com/60315832/206919755-fa4ad57b-74e3-410c-ada8-351228e3b48c.png">
+<img  alt="image" src="https://imgur.com/wnhSQy2">
+<img  alt="image" src="https://imgur.com/64di4J3">
+<img  alt="image" src="https://imgur.com/g3Nhdwl">
 
 
